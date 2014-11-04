@@ -4,5 +4,5 @@ Generates a maze of arbitrary size and solves it using depth first search. "Scre
 
 To compile: simply use the makefile.
 
-To run: $java MazeGUI [size]
+To run: $java MazeGUI [size]<p>
 $ java MazeGUI 40
